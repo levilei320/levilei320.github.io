@@ -9,6 +9,6 @@ my favorite subject is science
 
 I hope to be a successful buisnessman
 
-I like to play 1. cello 2. watch movies and t.v shows
+I like to play 1. cello 2. watch movies and T.V shows
 
 I play 1. minecraft 2. brawl stars and 3. blockbast
