@@ -14,6 +14,6 @@ I hope to be a successful buisnessman
 - I like to watch movies and T.V shows
    
 **games I like to play**
-- Minecraft
-- brawlstars
-- block bast
+1. Minecraft
+2. brawlstars
+3. block bast
