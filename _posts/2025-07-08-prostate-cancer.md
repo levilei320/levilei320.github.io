@@ -10,6 +10,7 @@ Stage 4: cancer spreads to lymph nodes and organs
 Some ways to treat prostate cancer is surgery which removes the prostate. In severe conditions, doctors may use hormone therapy to get rid of testosterone to stop the growth of cancer. If the hormone therapy fails, doctors may use chemotherapy that kills cancer cells but may also kill healthy cells. In the first 3 stages, the people usually die in the next 10-20+ years. In stage 4 cancer, it is the most aggressive and the survival rates go down to 32%. 
 
 refrences cited:
+
 https://www.bedayahospitals.com/en/prostate-cancer
 http://cancer.org/cancer/types/prostate-cancer/causes-risks-prevention/risk-factors.html#:~:text=older%20than%2065.-,Race/ethnicity,in%20non-Hispanic%20White%20men.
 https://www.who.int/news-room/fact-sheets/detail/cancer
