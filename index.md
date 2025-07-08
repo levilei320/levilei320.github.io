@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+personal blog
 
-Maybe say a some things about yourself.
+Houston high school
 
-Or maybe what you plan to blog about.
+cancer stuff...
