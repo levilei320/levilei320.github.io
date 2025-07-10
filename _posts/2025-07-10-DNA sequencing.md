@@ -5,3 +5,5 @@ learning how the Genome was proccessed. Scientists used the sanger method which 
 called dideoxynucleotides (ddNTPs) to terminate DNA strand elongation at specific bases, producing fragments of varying lengths. By running 
 these fragments through gel electrophoresis, the DNA sequence can be read from the shortest to the longest fragment. This method is slow 
 because the max amount of base pairs was only 1000. With modern technology, the max amount of base pairs has increased to the billions. 
+
+[This is my first python script](https://levilei320.github.io/DNA_sequencing.html)
