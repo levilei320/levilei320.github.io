@@ -83,3 +83,12 @@ It introduced the idea of intrinsic subtypes, which are classifications based so
 These subtypes help in tailoring treatments and improving diagnosis by understanding which genes are active or suppressed in different cancers.
 
 We went onto jupyter notebook to filter data sets with different types of cancer subtypes. In there, I got to see that prostate cancer molecular subtypes hasn't been uploaded on the file. 
+
+Drug screening using cancer cell lines:
+Drug screening allows scientists to evaluate the efficacy, potency, and selectivity of drugs against different cancer types
+
+breast cancer drugs on the market:
+Chemotherapy: doxorubicicin; paclitaxel
+Hormone therapy: tamoxifen, anastrozole(arimidex), exemestane(Aromasin)
+targeted therapy 
+trastuzumab, pertuzumab, and palbociclib
