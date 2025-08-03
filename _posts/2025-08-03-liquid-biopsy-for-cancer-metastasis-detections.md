@@ -60,5 +60,7 @@ the company focused on developed detection of ctDNA
 liquid biopsy would allow:
 early detection of the cancer 
 real time monitoring of tumor evolution
+<img width="900" height="596" alt="Screenshot 2025-08-03 at 4 08 51 PM" src="https://github.com/user-attachments/assets/05c3f57f-cf53-4549-84a8-9273f72991b9" />
 
-We created a Kaplan Meier graph on my jupyter notebook
+<img width="889" height="586" alt="Screenshot 2025-08-03 at 4 11 20 PM" src="https://github.com/user-attachments/assets/3a3d3350-ea81-4040-9d72-72064b9d83c0" />
+
